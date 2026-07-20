@@ -144,11 +144,13 @@ nav {
 }
 
 .about-me__img--container {
-  flex: 1;
   display: flex;
   align-items: center;
+  justify-content: center;
+  height:100vh;
 }
 
 .about-me__img {
   width: 100%;
+  height:auto;
 }
